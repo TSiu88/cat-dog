@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+img.toy{
+  width: 50%;
+}
+
+img.cat {
+  height: 300px;
+}
+
+img.dog {
+  height: 300px;
+}
+
+.btn {
+  margin: 30px;
+  font-size: 1.5em;
+  padding: 15px 30px;
+}
+
+.text {
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 100px;
+  font-size: 2em;
+  display: none;
+}
